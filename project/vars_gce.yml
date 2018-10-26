@@ -1,0 +1,7 @@
+---
+image_id: ubuntu-1604-xenial-v20180222
+zone: europe-west1-c
+security_group_id: dmk2-oct-2018
+subnet_id: mc-subnetwork
+service_account_email: mc-student@dmk2-oct-2018.iam.gserviceaccount.com
+project_id: dmk2-oct-2018
